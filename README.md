@@ -1,4 +1,4 @@
-<h1>🛠️ Hello, world!</h1>
+<h1>🛠️ Hello, peoples!</h1>
 <p>Primeiramente iniciei puxando algumas bibliotecas essencias e definindo as linhas e colunas para 2 (Matriz 2x2). <br>
 Em seguida criei algumas funções para que o código não fique tão bagunçado. Realizei todas as funções em um código só pois achei mais prático (para mim, somente neste projeto). <br>
 Nas funções temos 5 no total. Em primeiro temos a void do menu, seguido do fatorial, binomial, permutação e arranjo. Utilizei long long para números mais distantes, pois facilita o código e há menos chances de dar erro.
